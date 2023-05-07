@@ -9,7 +9,6 @@
 
 #endif
 
-#ifdef MODE
 
 #if MODE == 0
 
@@ -35,7 +34,6 @@ void info() {
 }
 
 #endif 
-#endif
 
 
 
